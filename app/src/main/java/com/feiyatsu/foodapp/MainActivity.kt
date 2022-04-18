@@ -35,8 +35,4 @@ class MainActivity : AppCompatActivity() {
         // Setting Navigation Controller with the BottomNavigationView
         binding.btmNav.setupWithNavController(navController)
     }
-
-    override fun onSupportNavigateUp(): Boolean {
-        return super.onSupportNavigateUp() || navController.navigateUp()
-    }
 }
