@@ -7,4 +7,9 @@
     <string name="home">Home</string>
     <string name="favorites">Favorites</string>
     <string name="categories">Categories</string>
+    <string name="text_content">What would you like to eat?</string>
+    <string name="search">search</string>
+    <string name="random_meal">Random Meal</string>
+    <string name="over_popular_meals">Over popular meals</string>
+    <string name="category">Category</string>
 </resources>
